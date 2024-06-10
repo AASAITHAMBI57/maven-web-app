@@ -82,7 +82,7 @@
     <maven.compiler.release>11</maven.compiler.release>
     <sonar.exclusions>src/main/java/org/apache/maven/shared/dependency/tree/DependencyTreeResolutionListener.java,target/generated-sources/**/*</sonar.exclusions>
     <gitRepositoryName>sonar-scanner-maven</gitRepositoryName>
-    <sonar.host.url>http://18.219.222.16:9000/</sonar.host.url>
+    <sonar.host.url>http://3.143.67.246:9000/</sonar.host.url>
     <sonar.login>squ_2e36d25f3757bca28ee5a38eccc24d1fbee8a720</sonar.login>
   </properties>
 
