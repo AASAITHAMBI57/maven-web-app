@@ -65,17 +65,17 @@
   </issueManagement>
 
   <distributionManagement>
-    <site>
+    <repository>
       <id>nexus</id>
       <name>Aasaitech</name>
       <url>http://18.224.108.25:8098/aasai/repository/facebook-release/</url>
-    </site>
+    </repository>
 
-    <site>
+    <snapshotRepository>
       <id>nexus</id>
       <name>Aasaitech</name>
       <url>http://18.224.108.25:8098/aasai/repository/facebook-snapshot/</url>
-    </site>
+    </snapshotRepository>
   </distributionManagement>
 
   <properties>
