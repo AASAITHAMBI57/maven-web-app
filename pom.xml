@@ -66,9 +66,15 @@
 
   <distributionManagement>
     <site>
-      <id>github</id>
-      <name>GitHub</name>
-      <url>scm:git:git@github.com:SonarSource/sonar-scanner-maven.git</url>
+      <id>nexus</id>
+      <name>Aasaitech</name>
+      <url>http://18.224.108.25:8098/aasai/repository/facebook-release/</url>
+    </site>
+
+    <site>
+      <id>nexus</id>
+      <name>Aasaitech</name>
+      <url>http://18.224.108.25:8098/aasai/repository/facebook-snapshot/</url>
     </site>
   </distributionManagement>
 
